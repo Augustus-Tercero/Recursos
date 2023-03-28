@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/ela/gwen/cpp/lenguajes-y-automatas/practica2",
+  "command": "/usr/bin/c++   -std=gnu++14 -o CMakeFiles/act2.dir/main.cpp.o -c /home/ela/gwen/cpp/lenguajes-y-automatas/practica2/main.cpp",
+  "file": "/home/ela/gwen/cpp/lenguajes-y-automatas/practica2/main.cpp",
+  "output": "CMakeFiles/act2.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ela/gwen/cpp/lenguajes-y-automatas/practica2",
+  "command": "/usr/bin/c++   -std=gnu++14 -o CMakeFiles/act2.dir/graph.cpp.o -c /home/ela/gwen/cpp/lenguajes-y-automatas/practica2/graph.cpp",
+  "file": "/home/ela/gwen/cpp/lenguajes-y-automatas/practica2/graph.cpp",
+  "output": "CMakeFiles/act2.dir/graph.cpp.o"
+},
+{
+  "directory": "/home/ela/gwen/cpp/lenguajes-y-automatas/practica2",
+  "command": "/usr/bin/c++   -std=gnu++14 -o CMakeFiles/act2.dir/directory.cpp.o -c /home/ela/gwen/cpp/lenguajes-y-automatas/practica2/directory.cpp",
+  "file": "/home/ela/gwen/cpp/lenguajes-y-automatas/practica2/directory.cpp",
+  "output": "CMakeFiles/act2.dir/directory.cpp.o"
+}
+]

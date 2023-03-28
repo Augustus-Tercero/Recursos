@@ -1,0 +1,3 @@
+/home/ela/gwen/cpp/lenguajes-y-automatas/practica2/CMakeFiles/act2.dir
+/home/ela/gwen/cpp/lenguajes-y-automatas/practica2/CMakeFiles/edit_cache.dir
+/home/ela/gwen/cpp/lenguajes-y-automatas/practica2/CMakeFiles/rebuild_cache.dir

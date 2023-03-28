@@ -1,0 +1,3 @@
+{{a,b}, {b, a}, {c, d}, {a, e}, {e, c}}
+{(Tokio, Argentina}, {New York, Colima}, (New York, Tokio)}
+{(7, 8), (8, 7), (10, 9), (8, 10)}
